@@ -2,23 +2,23 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "50931461936"
-global.ownername = "🌹⃟⃢👑 ༒𝙎-𝙏𝞢𝞜🌹⃟⃢👑"
+global.ownernomer = "254739165562"
+global.ownername = "🌹⃟⃢👑 ༒Kevo🌹⃟⃢👑"
 global.ytname = "DRK_ST_Tech"
 global.socialm = "GitHub: DRK-S-TEN"
-global.location = "America/Port-au-Prince"
+global.location = "Africa/Nairobi"
 
-global.ownernumber = '50931461936'  //creator number
-global.ownername = '𝙎-𝙏𝞢𝞜' //owner name
-global.botname = 'DRK_ST_BUG' //name of the bot
+global.ownernumber = '254739165562'  //creator number
+global.ownername = 'Kevo-Loves' //owner name
+global.botname = 'KEVO_BUG' //name of the bot
 
 //sticker details
 global.packname = '🗾'
-global.author = '𝙎-𝙏𝞢𝞜'
+global.author = 'KEVO'
 
 //console view/theme
 global.themeemoji = '🗾'
-global.wm = "𝙎-𝙏𝞢𝞜"
+global.wm = "KEVO"
 
 //theme link
 global.link = 'https://whatsapp.com/channel/0029Vakp0UnICVfe3I2Fe72w'
@@ -33,7 +33,7 @@ global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
 global.anti92 = false //auto block +92 
-global.autoswview = true //auto view status/story
+global.autoswview = false //auto view status/story
 
 //menu type 
 //menu type 
